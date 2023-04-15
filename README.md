@@ -1,4 +1,4 @@
-# Virtual Face NTTS Opensource AI - which can open websites generate images and more
+# Virtual Face NTTS Opensource AI - which can open websites generate images and more - Real time
 
 ## CAN we get real Virtual face showing emotions?
 
