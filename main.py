@@ -173,7 +173,7 @@ def main():
 if __name__ == "__main__":
     # voiceType('female')
     # voiceSpeed(170)
-    SpeakingEnergy(400)
+    SpeakingEnergy(500)
     # voiceType("Adam")
     # listeningLanguageChange('hi-In')
     # listeningLanguageChange('ne-NP')

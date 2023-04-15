@@ -151,8 +151,8 @@ class Function:
     global speak
     def speak(text):
         if listeningLanguage == 'en-IN':
-            # speakEnglishByElevenLabs(text)
-            speakByPytts(text)
+            speakEnglishByElevenLabs(text)
+            # speakByPytts(text)
         elif listeningLanguage == 'hi-In':
             speakHindiByPlayHt(text)
         elif listeningLanguage == 'ne-NP':
